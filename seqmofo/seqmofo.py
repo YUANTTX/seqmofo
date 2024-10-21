@@ -17,5 +17,6 @@ class mofoclass(object):
         pass
     def len(self):
         pass
+
 if __name__ == "__main__":
     pass

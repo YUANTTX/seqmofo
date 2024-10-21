@@ -8,7 +8,7 @@ requirements = []
 
 setup(
     name="seqmofo",
-    version="1.0.2",
+    version="1.0.3",
     author="yuanttx",
     author_email="yuanttx@gmail.com",
     description="A project for processing sequencing sequences",
